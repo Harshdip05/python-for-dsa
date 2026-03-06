@@ -1,2 +1,8 @@
 dsa_env/
 dsa_env
+5-Modules/package/__pycache__
+5-Modules\package\__pycache__
+5-Modules/package/subpackage/__pycache__
+5-Modules\package\subpackage\__pycache__
+__pycache__/
+*.pyc
